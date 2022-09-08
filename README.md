@@ -1,1 +1,1 @@
-# EDa-Pugb-Weapons-Detailed-Analysis-and-Visualization
+# EDA-PUBG-Weapons-Detailed-Analysis-and-Visualization
